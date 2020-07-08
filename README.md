@@ -59,3 +59,8 @@ MULTIPLE LINEAR REGRESSION MODEL
 - The adjusted R squared is 0.6953. As seen in the output removing insignificant variables
    will increase the efficiency.
 - So, we can conclude that number of bathrooms and waterfront are the highest contributors in terms of changing price.
+
+MOST EXPENSIVE HOUSES
+- I have taken a cutoff $0.9M and visualized it using the tableau which shows there are many waterfront houses in this range.
+![Screenshot (412)](https://user-images.githubusercontent.com/61165633/86882348-fa9d3e00-c0a4-11ea-8cf2-dc15a1d179fe.png)
+
