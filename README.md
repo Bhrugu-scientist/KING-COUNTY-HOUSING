@@ -41,3 +41,12 @@ SQFT BY PRICE
 ![Screenshot (406)](https://user-images.githubusercontent.com/61165633/86881355-06880080-c0a3-11ea-805b-2cf24eeda0fe.png)
 - Most of the houses fall between the range of $75,000 i.e. minimum to $250,000 and within 1000 sqft. There are few outliers.
 
+
+
+
+PRICES BY BEDROOMS
+![Screenshot (408)](https://user-images.githubusercontent.com/61165633/86881562-739b9600-c0a3-11ea-9289-5b75fa6e3706.png)
+
+
+
+MULTIPLE LINEAR REGRESSION MODEL
