@@ -24,3 +24,13 @@ DISTRIBUTION OF PRICE
 ![Screenshot (398)](https://user-images.githubusercontent.com/61165633/86879952-d8a1bc80-c0a0-11ea-84a1-c87cdd8b28cb.png)
 
 - There are few outliers here.
+
+DISTRIBUTION OF SQUAREFOOT
+![Screenshot (402)](https://user-images.githubusercontent.com/61165633/86880977-5e723780-c0a2-11ea-8e6f-a9c765a7e7af.png)
+
+DISTRIBUTION OF YEAR BUILT
+
+![Screenshot (403)](https://user-images.githubusercontent.com/61165633/86880986-63cf8200-c0a2-11ea-8998-e9ce42821181.png)
+
+DISTRIBUTION OF CONDITION
+![Screenshot (404)](https://user-images.githubusercontent.com/61165633/86880995-67630900-c0a2-11ea-9a26-e8e830d84e50.png)
