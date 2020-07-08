@@ -23,3 +23,4 @@ DISTRIBUTION OF PRICE
  
 ![Screenshot (398)](https://user-images.githubusercontent.com/61165633/86879952-d8a1bc80-c0a0-11ea-84a1-c87cdd8b28cb.png)
 
+- There are few outliers here.
