@@ -34,3 +34,10 @@ DISTRIBUTION OF YEAR BUILT
 
 DISTRIBUTION OF CONDITION
 ![Screenshot (404)](https://user-images.githubusercontent.com/61165633/86880995-67630900-c0a2-11ea-9a26-e8e830d84e50.png)
+
+
+
+SQFT BY PRICE
+![Screenshot (406)](https://user-images.githubusercontent.com/61165633/86881355-06880080-c0a3-11ea-805b-2cf24eeda0fe.png)
+- Most of the houses fall between the range of $75,000 i.e. minimum to $250,000 and within 1000 sqft. There are few outliers.
+
