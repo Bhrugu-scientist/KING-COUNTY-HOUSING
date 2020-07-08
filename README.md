@@ -50,3 +50,12 @@ PRICES BY BEDROOMS
 
 
 MULTIPLE LINEAR REGRESSION MODEL
+
+- Drop data from model, for better analysis dates are refactored into more meaningful data.
+
+![Screenshot (410)](https://user-images.githubusercontent.com/61165633/86881736-d12fe280-c0a3-11ea-9f1c-db03241f5472.png)
+- The three aestrick marks (***) shows the hgher amount of significance.
+- The biggest coefficient here is waterfront.
+- The adjusted R squared is 0.6953. As seen in the output removing insignificant variables
+   will increase the efficiency.
+- So, we can conclude that number of bathrooms and waterfront are the highest contributors in terms of changing price.
