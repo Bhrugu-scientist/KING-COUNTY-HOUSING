@@ -1,5 +1,6 @@
 # KING-COUNTY-HOUSING
 Exploratory Data Analysis on the data of King County Housing
+Link to the tableau visualization - https://public.tableau.com/profile/bhrugu4576#!/vizhome/KingCountyHousing_15940963718050/KingCountyMostExpensiveHouses
 
 - I have taken first 10,000 obsrvations and 22 variables, removed rest for better performance.
 
